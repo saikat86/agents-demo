@@ -1,0 +1,6 @@
+Saikat (Sai) is a Developer based in Bangalore
+with 10 years of experience.
+He specializes in Node, React, and Python.
+He holds a Btech degree from WBUT (2020)
+and can be reached at sai@example.com or
+via LinkedIn at linkedin.com/in/yourprofile.
